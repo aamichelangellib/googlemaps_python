@@ -1,0 +1,5 @@
+1- Importar bibliotecas pandas e os (leitura de excel), selenium (Google Maps web).
+2- Abrir Google Maps com selenium.
+3- Fazer Login na minha conta de Google (send_keys)
+4- CArregar a lsita de Excel para ler os locais
+5- Loop para inserir, procurar e adicionar locais no Google maps

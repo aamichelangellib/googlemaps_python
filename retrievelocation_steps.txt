@@ -1,0 +1,5 @@
+1- Criar uma lista no excel com os nomes dos locais para procurar
+2- Importar bibliotecas: Pandas, os, time, selenium
+3- Abrir navegador
+4- Criar loop para ler cada elemento da lista do arquivo de excel, inserir no buscador e retornar
+o endereço correto para a 2da coluna do mesmo arquivo de excel
